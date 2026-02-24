@@ -1,0 +1,18 @@
+,,,,
+,,Context,Hallazgo,Implicación
+,"Entre el [01/01/2025] y el [08/31/2025], ¿cuál es la tasa de conversión entre cada etapa clave del embudo.
+
+🔹 ¿En qué paso se observa la mayor caída porcentual de usuarios?
+🔹 ¿Cómo varía esta pérdida por país (country)?","1;La mayor caida esta entre ""Select item"" y ""Add to cart"", es donde la mayoria de usuarios abandona .                                                                                                   2; todos los paises pierden entre 29-35 puntos la mayor perdida ocurre en la segunda semana , practicamente en todos los mercados         ","1;la accion de añadir al carrito es el gran cuello de botella .                      2; Mexico y Peru aun que pierden mucho, logran retener un poco mas la dia 28(3%+) lo que coincide con sus mejores tasas de compras en  embudo","Se deve enfocar en la segunda semana de uso . re forzar campañas de bienvenida , beneficios iniciales y recordatorios. paises prioritarios Mexico y Peru , conviene invertir mas en estos mercados . paises con mejor retencion tambien convierte mas "
+,"¿Qué tan bien retenemos a los usuarios a lo largo del tiempo?
+
+🔹 Para los usuarios que se registraron entre el [01/01/2025] y el [06/01/2025], ¿cuál es la tasa de retención en D7, D14, D21, D28?
+🔹 *¿Cómo se comporta la retención agrupados por país (`country`)?
+","La retencion al inicio es muy alta (85% al dia 7),al dia 28 solo queda el 3% de la cohorte activa ","Todos  los paises muestran la misma curva : fuerte caida en D7>D14 Y D14>D21,Uruguay y Brasil tiene buena retencion inicial , pero caen mas rapido despues de D14, Ecuador ,Colombia,Paraguay :retencion baja y embudos que terminan en 0%",reforzar omboarding y engagement en los priemros 14 dias . Mexico y Peru son paises prioritarios :invertir mas en fidelizacion por su alta retencion . La retencion temprana esta  ligada a la convercion final
+,,,,
+,,,,
+,,,,
+,Reflexión personal,,,
+,"- ¿Qué etapa mejorarías primero?
+","La etapa mas critica para invertir es :""Add to cart"" ahi es donde se pierde el animo por comprar . los clientes miran productos pero no lo llevan al carrito ",,
+,- ¿Qué aprendiste sobre el comportamiento del usuario?,"Si le das mejor atencion desde los primeros pasos aumenta las posivilidades de la compra, es importante detectar donde hay mas perdida de interes para tomar cartas en el asunto y que mas usuarios finalizen la compra . ",,
